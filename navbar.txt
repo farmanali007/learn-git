@@ -1,1 +1,3 @@
-some work from feature-one
+i have done some work from feature-one
+
+some work from new-feature-one branch
